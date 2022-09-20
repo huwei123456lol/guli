@@ -35,3 +35,11 @@ build/
 **/mvnw
 **/mvnw.cmd
 **/.mvn
+**/资料源码
+**/资料源码.zip
+**/target
+**/.gitignore
+**/HELP.md
+
+
+
