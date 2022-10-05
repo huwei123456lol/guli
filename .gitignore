@@ -40,6 +40,6 @@ build/
 **/target
 **/.gitignore
 **/HELP.md
-
+**/renren-fast-vue
 
 
